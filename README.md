@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammd Hasib</h1>
 <h3 align="center">I develop web applications and mobile applications. My core skill is based on JavaScript and I love to do most of the things using JavaScript.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haseib&label=Profile%20views&color=0e75b6&style=flat" alt="haseib" /> </p>
+<p align="left"> <img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8d2ViJTIwZGVzaWdufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60" alt="haseib" /> </p>
 
-- 🔭 I’m currently working on **Youtube**
+- 🔭 I’m currently working on **YouTube**
 
-- 🌱 I’m currently learning **React,Node.**
+- 🌱 I’m currently learning **React , Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
